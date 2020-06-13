@@ -18,24 +18,24 @@
 ```c++
 
 depth_generator (const ros::NodeHandle& nh,
-				 const std::string& image_left_topic = "image1",
-				 const std::string& image_right_topic = "image2")
+    const std::string& image_left_topic = "image1",
+	const std::string& image_right_topic = "image2")
 
 ```
 
 ```c++
 
 depth_generator (const ros::NodeHandle& nh,
-				 const std::map<std::string, float>& params,
-				 const std::string& image_left_topic = "image1",
-				 const std::string& image_right_topic = "image2")
+	const std::map<std::string, float>& params,
+	const std::string& image_left_topic = "image1",
+	const std::string& image_right_topic = "image2")
 
 ```
 
 ```c++
 
 void depth_calc (cv::Mat& depth = cv::Mat(),
-		         cv::Mat& disparity = cv::Mat())
+	cv::Mat& disparity = cv::Mat())
 
 ```
 
