@@ -18,24 +18,24 @@
 ```c++
 
 depth_generator (const ros::NodeHandle& nh,
-    const std::string& image_left_topic = "image1",
-	const std::string& image_right_topic = "image2")
+    		 const std::string& image_left_topic = "image1",
+		 const std::string& image_right_topic = "image2")
 
 ```
 
 ```c++
 
 depth_generator (const ros::NodeHandle& nh,
-	const std::map<std::string, float>& params,
-	const std::string& image_left_topic = "image1",
-	const std::string& image_right_topic = "image2")
+		 const std::map<std::string, float>& params,
+		 const std::string& image_left_topic = "image1",
+		 const std::string& image_right_topic = "image2")
 
 ```
 
 ```c++
 
 void depth_calc (cv::Mat& depth = cv::Mat(),
-	cv::Mat& disparity = cv::Mat())
+		 cv::Mat& disparity = cv::Mat())
 
 ```
 
@@ -139,8 +139,8 @@ image_transport::ImageTransport it_private_  //wrapper for ros::NodeHandle that 
 #### depth_generator (1/2)
 ```c++
 depth_generator(const ros::NodeHandle& nh,
-			    const std::string& left_image_topic = "image1",
-			    const std::string& right_image_topic = "image2")
+		const std::string& left_image_topic = "image1",
+		const std::string& right_image_topic = "image2")
 ```
 
 
@@ -156,9 +156,9 @@ depth_generator(const ros::NodeHandle& nh,
 #### depth_generator (2/2)
 ```c++
 depth_generator(const ros::NodeHandle& nh,
-				const std::map<std::string, float>& params,
-				const std::string& image_left_topic = "image1",
-				const std::string& image_right_topic = "image2")
+		const std::map<std::string, float>& params,
+		const std::string& image_left_topic = "image1",
+		const std::string& image_right_topic = "image2")
 ```
   
 
@@ -193,7 +193,7 @@ depth_generator(const ros::NodeHandle& nh,
 ```c++
 
 void calc_depth(cv::Mat& depth = cv::Mat(),
-				cv::Mat& disparity = cv::Mat())
+		cv::Mat& disparity = cv::Mat())
 
 ```
 
