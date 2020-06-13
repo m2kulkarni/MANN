@@ -18,8 +18,8 @@
 ```c++
 
 depth_generator (const ros::NodeHandle& nh,
-                 const std::string& image_left_topic = "image1",
-	             const std::string& image_right_topic = "image2")
+    const std::string& image_left_topic = "image1",
+	const std::string& image_right_topic = "image2")
 
 ```
 
