@@ -1,0 +1,1877 @@
+loaded
+MANN(
+  (lstm1): LSTM(789, 128)
+  (lstm2): LSTM(128, 5)
+)
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.001
+    weight_decay: 0
+)
+_Exp_N=5_K=3_B=128
+ 
+ 
+Time to load dataset: 22min 58s
+dataset loaded
+tensor(1.6692, device='cuda:0', grad_fn=<NllLossBackward>)
+*****Iter 0*****
+Data loaded evaluate 0
+data prep
+model gave output
+loss calculated
+Train Loss: 1.669197678565979 Test Loss: 1.708719253540039
+Test Accuracy 0.21800000965595245
+Calculated loss for the  0  time
+Optim  0  time
+ 
+ 
+Time to load dataset: 21min 23s
+dataset loaded
+tensor(1.5381, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  1  time
+Optim  1  time
+ 
+ 
+Time to load dataset: 18min 44s
+dataset loaded
+tensor(1.5423, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  2  time
+Optim  2  time
+ 
+ 
+Time to load dataset: 16min 32s
+dataset loaded
+tensor(1.5353, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  3  time
+Optim  3  time
+ 
+ 
+Time to load dataset: 14min 41s
+dataset loaded
+tensor(1.5330, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  4  time
+Optim  4  time
+ 
+ 
+Time to load dataset: 12min 57s
+dataset loaded
+tensor(1.5320, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  5  time
+Optim  5  time
+ 
+ 
+Time to load dataset: 11min 10s
+dataset loaded
+tensor(1.5316, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  6  time
+Optim  6  time
+ 
+ 
+Time to load dataset: 10min 18s
+dataset loaded
+tensor(1.5315, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  7  time
+Optim  7  time
+ 
+ 
+Time to load dataset: 9min 3s
+dataset loaded
+tensor(1.5315, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  8  time
+Optim  8  time
+ 
+ 
+Time to load dataset: 7min 38s
+dataset loaded
+tensor(1.5316, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  9  time
+Optim  9  time
+ 
+ 
+Time to load dataset: 6min 36s
+dataset loaded
+tensor(1.5316, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  10  time
+Optim  10  time
+ 
+ 
+Time to load dataset: 6min 13s
+dataset loaded
+tensor(1.5316, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  11  time
+Optim  11  time
+ 
+ 
+Time to load dataset: 5min 31s
+dataset loaded
+tensor(1.5315, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  12  time
+Optim  12  time
+ 
+ 
+Time to load dataset: 4min 49s
+dataset loaded
+tensor(1.5315, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  13  time
+Optim  13  time
+ 
+ 
+Time to load dataset: 4min 6s
+dataset loaded
+tensor(1.5314, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  14  time
+Optim  14  time
+ 
+ 
+Time to load dataset: 3min 57s
+dataset loaded
+tensor(1.5313, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  15  time
+Optim  15  time
+ 
+ 
+Time to load dataset: 3min 11s
+dataset loaded
+tensor(1.5312, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  16  time
+Optim  16  time
+ 
+ 
+Time to load dataset: 2min 55s
+dataset loaded
+tensor(1.5311, device='cuda:0', grad_fn=<NllLossBackward>
+Calculated loss for the  17  time
+Optim  17  time
+ 
+ 
+Time to load dataset: 2min 41s
+dataset loaded
+tensor(1.5311, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  18  time
+Optim  18  time
+ 
+ 
+Time to load dataset: 2min 9s
+dataset loaded
+tensor(1.5310, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  19  time
+Optim  19  time
+ 
+ 
+Time to load dataset: 1min 56s
+dataset loaded
+tensor(1.5310, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  20  time
+Optim  20  time
+ 
+ 
+Time to load dataset: 1min 55s
+dataset loaded
+tensor(1.5310, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  21  time
+Optim  21  time
+ 
+ 
+Time to load dataset: 1min 44s
+dataset loaded
+tensor(1.5310, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  22  time
+Optim  22  time
+ 
+ 
+Time to load dataset: 1min 33s
+dataset loaded
+tensor(1.5310, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  23  time
+Optim  23  time
+ 
+ 
+Time to load dataset: 1min 26s
+dataset loaded
+tensor(1.5310, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  24  time
+Optim  24  time
+ 
+ 
+Time to load dataset: 1min 18s
+dataset loaded
+tensor(1.5310, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  25  time
+Optim  25  time
+ 
+ 
+Time to load dataset: 59.3 s
+dataset loaded
+tensor(1.5310, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  26  time
+Optim  26  time
+ 
+ 
+Time to load dataset: 1min 1s
+dataset loaded
+tensor(1.5310, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  27  time
+Optim  27  time
+ 
+ 
+Time to load dataset: 47.9 s
+dataset loaded
+tensor(1.5310, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  28  time
+Optim  28  time
+ 
+ 
+Time to load dataset: 43.6 s
+dataset loaded
+tensor(1.5309, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  29  time
+Optim  29  time
+ 
+ 
+Time to load dataset: 48.5 s
+dataset loaded
+tensor(1.5309, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  30  time
+Optim  30  time
+ 
+ 
+Time to load dataset: 43.1 s
+dataset loaded
+tensor(1.5309, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  31  time
+Optim  31  time
+ 
+ 
+Time to load dataset: 32.3 s
+dataset loaded
+tensor(1.5309, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  32  time
+Optim  32  time
+ 
+ 
+Time to load dataset: 30.2 s
+dataset loaded
+tensor(1.5309, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  33  time
+Optim  33  time
+ 
+ 
+Time to load dataset: 29.2 s
+dataset loaded
+tensor(1.5309, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  34  time
+Optim  34  time
+ 
+ 
+Time to load dataset: 31.5 s
+dataset loaded
+tensor(1.5309, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  35  time
+Optim  35  time
+ 
+ 
+Time to load dataset: 29.9 s
+dataset loaded
+tensor(1.5309, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  36  time
+Optim  36  time
+ 
+ 
+Time to load dataset: 27 s
+dataset loaded
+tensor(1.5309, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  37  time
+Optim  37  time
+ 
+ 
+Time to load dataset: 22.9 s
+dataset loaded
+tensor(1.5309, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  38  time
+Optim  38  time
+ 
+ 
+Time to load dataset: 23.6 s
+dataset loaded
+tensor(1.5309, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  39  time
+Optim  39  time
+ 
+ 
+Time to load dataset: 27.3 s
+dataset loaded
+tensor(1.5308, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  40  time
+Optim  40  time
+ 
+ 
+Time to load dataset: 23.9 s
+dataset loaded
+tensor(1.5308, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  41  time
+Optim  41  time
+ 
+ 
+Time to load dataset: 20.6 s
+dataset loaded
+tensor(1.5308, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  42  time
+Optim  42  time
+ 
+ 
+Time to load dataset: 21.8 s
+dataset loaded
+tensor(1.5308, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  43  time
+Optim  43  time
+ 
+ 
+Time to load dataset: 18.7 s
+dataset loaded
+tensor(1.5308, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  44  time
+Optim  44  time
+ 
+ 
+Time to load dataset: 18.5 s
+dataset loaded
+tensor(1.5308, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  45  time
+Optim  45  time
+ 
+ 
+Time to load dataset: 18.2 s
+dataset loaded
+tensor(1.5308, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  46  time
+Optim  46  time
+ 
+ 
+Time to load dataset: 21.2 s
+dataset loaded
+tensor(1.5308, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  47  time
+Optim  47  time
+ 
+ 
+Time to load dataset: 15.8 s
+dataset loaded
+tensor(1.5308, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  48  time
+Optim  48  time
+ 
+ 
+Time to load dataset: 16.8 s
+dataset loaded
+tensor(1.5308, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  49  time
+Optim  49  time
+ 
+ 
+Time to load dataset: 18.5 s
+dataset loaded
+tensor(1.5308, device='cuda:0', grad_fn=<NllLossBackward>)
+*****Iter 50*****
+Data loaded evaluate 50
+data prep
+model gave output
+loss calculated
+Train Loss: 1.5307672023773193 Test Loss: 1.7080832719802856
+Test Accuracy 0.19200000166893005
+Calculated loss for the  50  time
+Optim  50  time
+ 
+ 
+Time to load dataset: 18.5 s
+dataset loaded
+tensor(1.5308, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  51  time
+Optim  51  time
+ 
+ 
+Time to load dataset: 22.3 s
+dataset loaded
+tensor(1.5308, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  52  time
+Optim  52  time
+ 
+ 
+Time to load dataset: 21.8 s
+dataset loaded
+tensor(1.5307, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  53  time
+Optim  53  time
+ 
+ 
+Time to load dataset: 18.7 s
+dataset loaded
+tensor(1.5307, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  54  time
+Optim  54  time
+ 
+ 
+Time to load dataset: 19.4 s
+dataset loaded
+tensor(1.5307, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  55  time
+Optim  55  time
+ 
+ 
+Time to load dataset: 19.2 s
+dataset loaded
+tensor(1.5307, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  56  time
+Optim  56  time
+ 
+ 
+Time to load dataset: 20.8 s
+dataset loaded
+tensor(1.5307, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  57  time
+Optim  57  time
+ 
+ 
+Time to load dataset: 19.7 s
+dataset loaded
+tensor(1.5307, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  58  time
+Optim  58  time
+ 
+ 
+Time to load dataset: 20.2 s
+dataset loaded
+tensor(1.5307, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  59  time
+Optim  59  time
+ 
+ 
+Time to load dataset: 19.9 s
+dataset loaded
+tensor(1.5307, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  60  time
+Optim  60  time
+ 
+ 
+Time to load dataset: 21.4 s
+dataset loaded
+tensor(1.5307, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  61  time
+Optim  61  time
+ 
+ 
+Time to load dataset: 21 s
+dataset loaded
+tensor(1.5306, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  62  time
+Optim  62  time
+ 
+ 
+Time to load dataset: 21 s
+dataset loaded
+tensor(1.5306, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  63  time
+Optim  63  time
+ 
+ 
+Time to load dataset: 21.3 s
+dataset loaded
+tensor(1.5306, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  64  time
+Optim  64  time
+ 
+ 
+Time to load dataset: 21.4 s
+dataset loaded
+tensor(1.5306, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  65  time
+Optim  65  time
+ 
+ 
+Time to load dataset: 22.3 s
+dataset loaded
+tensor(1.5306, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  66  time
+Optim  66  time
+ 
+ 
+Time to load dataset: 26.1 s
+dataset loaded
+tensor(1.5306, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  67  time
+Optim  67  time
+ 
+ 
+Time to load dataset: 25.2 s
+dataset loaded
+tensor(1.5306, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  68  time
+Optim  68  time
+ 
+ 
+Time to load dataset: 23.2 s
+dataset loaded
+tensor(1.5306, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  69  time
+Optim  69  time
+ 
+ 
+Time to load dataset: 25 s
+dataset loaded
+tensor(1.5306, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  70  time
+Optim  70  time
+ 
+ 
+Time to load dataset: 24.2 s
+dataset loaded
+tensor(1.5306, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  71  time
+Optim  71  time
+" "
+ 
+Time to load dataset: 24.8 s
+dataset loaded
+tensor(1.5306, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  72  time
+Optim  72  time
+ 
+ 
+Time to load dataset: 25.6 s
+dataset loaded
+tensor(1.5306, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  73  time
+Optim  73  time
+ 
+ 
+Time to load dataset: 26.3 s
+dataset loaded
+tensor(1.5305, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  74  time
+Optim  74  time
+ 
+ 
+Time to load dataset: 26.5 s
+dataset loaded
+tensor(1.5305, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  75  time
+Optim  75  time
+ 
+ 
+Time to load dataset: 26.9 s
+dataset loaded
+tensor(1.5305, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  76  time
+Optim  76  time
+ 
+ 
+Time to load dataset: 27 s
+dataset loaded
+tensor(1.5305, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  77  time
+Optim  77  time
+ 
+ 
+Time to load dataset: 27.7 s
+dataset loaded
+tensor(1.5305, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  78  time
+Optim  78  time
+ 
+ 
+Time to load dataset: 29.1 s
+dataset loaded
+tensor(1.5305, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  79  time
+Optim  79  time
+ 
+ 
+Time to load dataset: 28.8 s
+dataset loaded
+tensor(1.5305, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  80  time
+Optim  80  time
+ 
+ 
+Time to load dataset: 29.1 s
+dataset loaded
+tensor(1.5304, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  81  time
+Optim  81  time
+ 
+ 
+Time to load dataset: 29.7 s
+dataset loaded
+tensor(1.5304, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  82  time
+Optim  82  time
+ 
+ 
+Time to load dataset: 30 s
+dataset loaded
+tensor(1.5304, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  83  time
+Optim  83  time
+ 
+ 
+Time to load dataset: 34.5 s
+dataset loaded
+tensor(1.5304, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  84  time
+Optim  84  time
+ 
+ 
+Time to load dataset: 30.9 s
+dataset loaded
+tensor(1.5304, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  85  time
+Optim  85  time
+ 
+ 
+Time to load dataset: 31.5 s
+dataset loaded
+tensor(1.5303, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  86  time
+Optim  86  time
+ 
+ 
+Time to load dataset: 31.7 s
+dataset loaded
+tensor(1.5303, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  87  time
+Optim  87  time
+ 
+ 
+Time to load dataset: 31.9 s
+dataset loaded
+tensor(1.5303, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  88  time
+Optim  88  time
+ 
+ 
+Time to load dataset: 32.6 s
+dataset loaded
+tensor(1.5302, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  89  time
+Optim  89  time
+ 
+ 
+Time to load dataset: 32.8 s
+dataset loaded
+tensor(1.5302, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  90  time
+Optim  90  time
+ 
+ 
+Time to load dataset: 32.8 s
+dataset loaded
+tensor(1.5301, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  91  time
+Optim  91  time
+ 
+ 
+Time to load dataset: 33.2 s
+dataset loaded
+tensor(1.5301, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  92  time
+Optim  92  time
+ 
+ 
+Time to load dataset: 33.6 s
+dataset loaded
+tensor(1.5300, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  93  time
+Optim  93  time
+ 
+ 
+Time to load dataset: 33.9 s
+dataset loaded
+tensor(1.5298, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  94  time
+Optim  94  time
+ 
+ 
+Time to load dataset: 35 s
+dataset loaded
+tensor(1.5296, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  95  time
+Optim  95  time
+ 
+ 
+Time to load dataset: 34.4 s
+dataset loaded
+tensor(1.5293, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  96  time
+Optim  96  time
+ 
+ 
+Time to load dataset: 34.3 s
+dataset loaded
+tensor(1.5291, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  97  time
+Optim  97  time
+ 
+ 
+Time to load dataset: 34.9 s
+dataset loaded
+tensor(1.5291, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  98  time
+Optim  98  time
+ 
+ 
+Time to load dataset: 36.6 s
+dataset loaded
+tensor(1.5291, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  99  time
+Optim  99  time
+ 
+ 
+Time to load dataset: 36.1 s
+dataset loaded
+tensor(1.5296, device='cuda:0', grad_fn=<NllLossBackward>)
+*****Iter 100*****
+Data loaded evaluate 100
+data prep
+model gave output
+loss calculated
+Train Loss: 1.5296094417572021 Test Loss: 1.6858328580856323
+Test Accuracy 0.20600001513957977
+Calculated loss for the  100  time
+Optim  100  time
+ 
+ 
+Time to load dataset: 36.8 s
+dataset loaded
+tensor(1.5297, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  101  time
+Optim  101  time
+ 
+ 
+Time to load dataset: 37.7 s
+dataset loaded
+tensor(1.5296, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  102  time
+Optim  102  time
+ 
+ 
+Time to load dataset: 38.5 s
+dataset loaded
+tensor(1.5291, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  103  time
+Optim  103  time
+ 
+ 
+Time to load dataset: 39.1 s
+dataset loaded
+tensor(1.5299, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  104  time
+Optim  104  time
+ 
+ 
+Time to load dataset: 43.9 s
+dataset loaded
+tensor(1.5288, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  105  time
+Optim  105  time
+ 
+ 
+Time to load dataset: 40.2 s
+dataset loaded
+tensor(1.5291, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  106  time
+Optim  106  time
+ 
+ 
+Time to load dataset: 39.5 s
+dataset loaded
+tensor(1.5283, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  107  time
+Optim  107  time
+ 
+ 
+Time to load dataset: 39.2 s
+dataset loaded
+tensor(1.5282, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  108  time
+Optim  108  time
+ 
+ 
+Time to load dataset: 40.1 s
+dataset loaded
+tensor(1.5286, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  109  time
+Optim  109  time
+ 
+ 
+Time to load dataset: 41.1 s
+dataset loaded
+tensor(1.5279, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  110  time
+Optim  110  time
+ 
+ 
+Time to load dataset: 40.9 s
+dataset loaded
+tensor(1.5287, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  111  time
+Optim  111  time
+ 
+ 
+Time to load dataset: 41.3 s
+dataset loaded
+tensor(1.5277, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  112  time
+Optim  112  time
+ 
+ 
+Time to load dataset: 42.1 s
+dataset loaded
+tensor(1.5280, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  113  time
+Optim  113  time
+ 
+ 
+Time to load dataset: 42.1 s
+dataset loaded
+tensor(1.5272, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  114  time
+Optim  114  time
+ 
+ 
+Time to load dataset: 42.4 s
+dataset loaded
+tensor(1.5276, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  115  time
+Optim  115  time
+ 
+ 
+Time to load dataset: 42.8 s
+dataset loaded
+tensor(1.5276, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  116  time
+Optim  116  time
+ 
+ 
+Time to load dataset: 43.3 s
+dataset loaded
+tensor(1.5268, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  117  time
+Optim  117  time
+ 
+ 
+Time to load dataset: 43.6 s
+dataset loaded
+tensor(1.5280, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  118  time
+Optim  118  time
+ 
+ 
+Time to load dataset: 43.6 s
+dataset loaded
+tensor(1.5280, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  119  time
+Optim  119  time
+ 
+ 
+Time to load dataset: 44.2 s
+dataset loaded
+tensor(1.5275, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  120  time
+Optim  120  time
+ 
+ 
+Time to load dataset: 44.9 s
+dataset loaded
+tensor(1.5269, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  121  time
+Optim  121  time
+ 
+ 
+Time to load dataset: 44.2 s
+dataset loaded
+tensor(1.5253, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  122  time
+Optim  122  time
+ 
+ 
+Time to load dataset: 43.9 s
+dataset loaded
+tensor(1.5260, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  123  time
+Optim  123  time
+ 
+ 
+Time to load dataset: 45.1 s
+dataset loaded
+tensor(1.5241, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  124  time
+Optim  124  time
+ 
+ 
+Time to load dataset: 45.7 s
+dataset loaded
+tensor(1.5270, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  125  time
+Optim  125  time
+ 
+ 
+Time to load dataset: 46.2 s
+dataset loaded
+tensor(1.5310, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  126  time
+Optim  126  time
+ 
+ 
+Time to load dataset: 46.5 s
+dataset loaded
+tensor(1.5328, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  127  time
+Optim  127  time
+ 
+ 
+Time to load dataset: 47.1 s
+dataset loaded
+tensor(1.5312, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  128  time
+Optim  128  time
+ 
+ 
+Time to load dataset: 47.1 s
+dataset loaded
+tensor(1.5270, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  129  time
+Optim  129  time
+ 
+ 
+Time to load dataset: 47.5 s
+dataset loaded
+tensor(1.5273, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  130  time
+Optim  130  time
+ 
+ 
+Time to load dataset: 48.2 s
+dataset loaded
+tensor(1.5289, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  131  time
+Optim  131  time
+ 
+ 
+Time to load dataset: 47.9 s
+dataset loaded
+tensor(1.5253, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  132  time
+Optim  132  time
+ 
+ 
+Time to load dataset: 53.9 s
+dataset loaded
+tensor(1.5270, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  133  time
+Optim  133  time
+ 
+ 
+Time to load dataset: 49.5 s
+dataset loaded
+tensor(1.5274, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  134  time
+Optim  134  time
+ 
+ 
+Time to load dataset: 49 s
+dataset loaded
+tensor(1.5259, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  135  time
+Optim  135  time
+ 
+ 
+Time to load dataset: 49.2 s
+dataset loaded
+tensor(1.5239, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  136  time
+Optim  136  time
+ 
+ 
+Time to load dataset: 49.8 s
+dataset loaded
+tensor(1.5249, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  137  time
+Optim  137  time
+ 
+ 
+Time to load dataset: 50.1 s
+dataset loaded
+tensor(1.5233, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  138  time
+Optim  138  time
+ 
+ 
+Time to load dataset: 50.2 s
+dataset loaded
+tensor(1.5244, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  139  time
+Optim  139  time
+ 
+ 
+Time to load dataset: 51.1 s
+dataset loaded
+tensor(1.5222, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  140  time
+Optim  140  time
+ 
+ 
+Time to load dataset: 51 s
+dataset loaded
+tensor(1.5246, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  141  time
+Optim  141  time
+ 
+ 
+Time to load dataset: 51.4 s
+dataset loaded
+tensor(1.5218, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  142  time
+Optim  142  time
+ 
+ 
+Time to load dataset: 51.6 s
+dataset loaded
+tensor(1.5229, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  143  time
+Optim  143  time
+ 
+ 
+Time to load dataset: 51.1 s
+dataset loaded
+tensor(1.5194, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  144  time
+Optim  144  time
+ 
+ 
+Time to load dataset: 51.4 s
+dataset loaded
+tensor(1.5248, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  145  time
+Optim  145  time
+ 
+ 
+Time to load dataset: 52.4 s
+dataset loaded
+tensor(1.5232, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  146  time
+Optim  146  time
+ 
+ 
+Time to load dataset: 52.2 s
+dataset loaded
+tensor(1.5265, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  147  time
+Optim  147  time
+ 
+ 
+Time to load dataset: 52.6 s
+dataset loaded
+tensor(1.5241, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  148  time
+Optim  148  time
+ 
+ 
+Time to load dataset: 52.2 s
+dataset loaded
+tensor(1.5176, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  149  time
+Optim  149  time
+ 
+ 
+Time to load dataset: 52.5 s
+dataset loaded
+tensor(1.5283, device='cuda:0', grad_fn=<NllLossBackward>)
+*****Iter 150*****
+Data loaded evaluate 150
+data prep
+model gave output
+loss calculated
+Train Loss: 1.5283052921295166 Test Loss: 1.6670163869857788
+Test Accuracy 0.21000000834465027
+Calculated loss for the  150  time
+Optim  150  time
+ 
+ 
+Time to load dataset: 54.5 s
+dataset loaded
+tensor(1.5203, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  151  time
+Optim  151  time
+ 
+ 
+Time to load dataset: 55.4 s
+dataset loaded
+tensor(1.5257, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  152  time
+Optim  152  time
+ 
+ 
+Time to load dataset: 55.5 s
+dataset loaded
+tensor(1.5254, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  153  time
+Optim  153  time
+ 
+ 
+Time to load dataset: 55.2 s
+dataset loaded
+tensor(1.5218, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  154  time
+Optim  154  time
+ 
+ 
+Time to load dataset: 55.1 s
+dataset loaded
+tensor(1.5190, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  155  time
+Optim  155  time
+ 
+ 
+Time to load dataset: 55.9 s
+dataset loaded
+tensor(1.5241, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  156  time
+Optim  156  time
+ 
+ 
+Time to load dataset: 56 s
+dataset loaded
+tensor(1.5194, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  157  time
+Optim  157  time
+ 
+ 
+Time to load dataset: 56.7 s
+dataset loaded
+tensor(1.5194, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  158  time
+Optim  158  time
+ 
+ 
+Time to load dataset: 57.5 s
+dataset loaded
+tensor(1.5215, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  159  time
+Optim  159  time
+ 
+ 
+Time to load dataset: 57 s
+dataset loaded
+tensor(1.5198, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  160  time
+Optim  160  time
+ 
+ 
+Time to load dataset: 57.8 s
+dataset loaded
+tensor(1.5162, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  161  time
+Optim  161  time
+ 
+ 
+Time to load dataset: 57.9 s
+dataset loaded
+tensor(1.5209, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  162  time
+Optim  162  time
+ 
+ 
+Time to load dataset: 58.1 s
+dataset loaded
+tensor(1.5153, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  163  time
+Optim  163  time
+ 
+ 
+Time to load dataset: 58.9 s
+dataset loaded
+tensor(1.5182, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  164  time
+Optim  164  time
+ 
+ 
+Time to load dataset: 58.4 s
+dataset loaded
+tensor(1.5147, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  165  time
+Optim  165  time
+ 
+ 
+Time to load dataset: 1min 4s
+dataset loaded
+tensor(1.5197, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  166  time
+Optim  166  time
+ 
+ 
+Time to load dataset: 59.5 s
+dataset loaded
+tensor(1.5141, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  167  time
+Optim  167  time
+ 
+ 
+Time to load dataset: 59.6 s
+dataset loaded
+tensor(1.5157, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  168  time
+Optim  168  time
+ 
+ 
+Time to load dataset: 59.8 s
+dataset loaded
+tensor(1.5116, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  169  time
+Optim  169  time
+ 
+ 
+Time to load dataset: 1min
+dataset loaded
+tensor(1.5110, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  170  time
+Optim  170  time
+ 
+ 
+Time to load dataset: 1min 1s
+dataset loaded
+tensor(1.5181, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  171  time
+Optim  171  time
+ 
+ 
+Time to load dataset: 1min
+dataset loaded
+tensor(1.5085, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  172  time
+Optim  172  time
+ 
+ 
+Time to load dataset: 1min
+dataset loaded
+tensor(1.5290, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  173  time
+Optim  173  time
+ 
+ 
+Time to load dataset: 1min
+dataset loaded
+tensor(1.5248, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  174  time
+Optim  174  time
+ 
+ 
+Time to load dataset: 1min 1s
+dataset loaded
+tensor(1.5323, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  175  time
+Optim  175  time
+ 
+ 
+Time to load dataset: 1min 1s
+dataset loaded
+tensor(1.5341, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  176  time
+Optim  176  time
+ 
+ 
+Time to load dataset: 1min 1s
+dataset loaded
+tensor(1.5339, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  177  time
+Optim  177  time
+ 
+ 
+Time to load dataset: 1min 2s
+dataset loaded
+tensor(1.5325, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  178  time
+Optim  178  time
+ 
+ 
+Time to load dataset: 1min 2s
+dataset loaded
+tensor(1.5311, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  179  time
+Optim  179  time
+ 
+ 
+Time to load dataset: 1min 3s
+dataset loaded
+tensor(1.5308, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  180  time
+Optim  180  time
+ 
+ 
+Time to load dataset: 1min 3s
+dataset loaded
+tensor(1.5307, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  181  time
+Optim  181  time
+ 
+ 
+Time to load dataset: 1min 3s
+dataset loaded
+tensor(1.5302, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  182  time
+Optim  182  time
+ 
+ 
+Time to load dataset: 1min 3s
+dataset loaded
+tensor(1.5294, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  183  time
+Optim  183  time
+ 
+ 
+Time to load dataset: 1min 3s
+dataset loaded
+tensor(1.5283, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  184  time
+Optim  184  time
+ 
+ 
+Time to load dataset: 1min 4s
+dataset loaded
+tensor(1.5270, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  185  time
+Optim  185  time
+ 
+ 
+Time to load dataset: 1min 4s
+dataset loaded
+tensor(1.5257, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  186  time
+Optim  186  time
+ 
+ 
+Time to load dataset: 1min 5s
+dataset loaded
+tensor(1.5249, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  187  time
+Optim  187  time
+ 
+ 
+Time to load dataset: 1min 5s
+dataset loaded
+tensor(1.5243, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  188  time
+Optim  188  time
+ 
+ 
+Time to load dataset: 1min 6s
+dataset loaded
+tensor(1.5237, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  189  time
+Optim  189  time
+ 
+ 
+Time to load dataset: 1min 7s
+dataset loaded
+tensor(1.5230, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  190  time
+Optim  190  time
+ 
+ 
+Time to load dataset: 1min 7s
+dataset loaded
+tensor(1.5222, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  191  time
+Optim  191  time
+ 
+ 
+Time to load dataset: 1min 7s
+dataset loaded
+tensor(1.5214, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  192  time
+Optim  192  time
+ 
+ 
+Time to load dataset: 1min 7s
+dataset loaded
+tensor(1.5214, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  193  time
+Optim  193  time
+ 
+ 
+Time to load dataset: 1min 8s
+dataset loaded
+tensor(1.5211, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  194  time
+Optim  194  time
+ 
+ 
+Time to load dataset: 1min 8s
+dataset loaded
+tensor(1.5213, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  195  time
+Optim  195  time
+ 
+ 
+Time to load dataset: 1min 9s
+dataset loaded
+tensor(1.5213, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  196  time
+Optim  196  time
+ 
+ 
+Time to load dataset: 1min 9s
+dataset loaded
+tensor(1.5211, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  197  time
+Optim  197  time
+ 
+ 
+Time to load dataset: 1min 10s
+dataset loaded
+tensor(1.5209, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  198  time
+Optim  198  time
+ 
+ 
+Time to load dataset: 1min 10s
+dataset loaded
+tensor(1.5205, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  199  time
+Optim  199  time
+ 
+ 
+Time to load dataset: 1min 10s
+dataset loaded
+tensor(1.5200, device='cuda:0', grad_fn=<NllLossBackward>)
+*****Iter 200*****
+Data loaded evaluate 200
+data prep
+model gave output
+loss calculated
+Train Loss: 1.51999831199646 Test Loss: 1.6742643117904663
+Test Accuracy 0.19600000977516174
+Calculated loss for the  200  time
+Optim  200  time
+ 
+ 
+Time to load dataset: 1min 12s
+dataset loaded
+tensor(1.5197, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  201  time
+Optim  201  time
+ 
+ 
+Time to load dataset: 1min 11s
+dataset loaded
+tensor(1.5195, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  202  time
+Optim  202  time
+ 
+ 
+Time to load dataset: 1min 12s
+dataset loaded
+tensor(1.5193, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  203  time
+Optim  203  time
+ 
+ 
+Time to load dataset: 1min 12s
+dataset loaded
+tensor(1.5192, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  204  time
+Optim  204  time
+ 
+ 
+Time to load dataset: 1min 14s
+dataset loaded
+tensor(1.5191, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  205  time
+Optim  205  time
+ 
+ 
+Time to load dataset: 1min 14s
+dataset loaded
+tensor(1.5190, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  206  time
+Optim  206  time
+ 
+ 
+Time to load dataset: 1min 13s
+dataset loaded
+tensor(1.5191, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  207  time
+Optim  207  time
+ 
+ 
+Time to load dataset: 1min 20s
+dataset loaded
+tensor(1.5191, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  208  time
+Optim  208  time
+ 
+ 
+Time to load dataset: 1min 12s
+dataset loaded
+tensor(1.5191, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  209  time
+Optim  209  time
+ 
+ 
+Time to load dataset: 1min 11s
+dataset loaded
+tensor(1.5189, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  210  time
+Optim  210  time
+ 
+ 
+Time to load dataset: 1min 10s
+dataset loaded
+tensor(1.5186, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  211  time
+Optim  211  time
+ 
+ 
+Time to load dataset: 1min 12s
+dataset loaded
+tensor(1.5185, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  212  time
+Optim  212  time
+ 
+ 
+Time to load dataset: 1min 13s
+dataset loaded
+tensor(1.5183, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  213  time
+Optim  213  time
+ 
+ 
+Time to load dataset: 1min 14s
+dataset loaded
+tensor(1.5181, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  214  time
+Optim  214  time
+ 
+ 
+Time to load dataset: 1min 14s
+dataset loaded
+tensor(1.5181, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  215  time
+Optim  215  time
+ 
+ 
+Time to load dataset: 1min 15s
+dataset loaded
+tensor(1.5179, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  216  time
+Optim  216  time
+ 
+ 
+Time to load dataset: 1min 17s
+dataset loaded
+tensor(1.5178, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  217  time
+Optim  217  time
+ 
+ 
+Time to load dataset: 1min 17s
+dataset loaded
+tensor(1.5177, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  218  time
+Optim  218  time
+ 
+ 
+Time to load dataset: 1min 16s
+dataset loaded
+tensor(1.5176, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  219  time
+Optim  219  time
+ 
+ 
+Time to load dataset: 1min 16s
+dataset loaded
+tensor(1.5176, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  220  time
+Optim  220  time
+ 
+ 
+Time to load dataset: 1min 17s
+dataset loaded
+tensor(1.5174, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  221  time
+Optim  221  time
+ 
+ 
+Time to load dataset: 1min 19s
+dataset loaded
+tensor(1.5174, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  222  time
+Optim  222  time
+ 
+ 
+Time to load dataset: 1min 19s
+dataset loaded
+tensor(1.5173, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  223  time
+Optim  223  time
+ 
+ 
+Time to load dataset: 1min 19s
+dataset loaded
+tensor(1.5172, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  224  time
+Optim  224  time
+ 
+ 
+Time to load dataset: 1min 18s
+dataset loaded
+tensor(1.5172, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  225  time
+Optim  225  time
+ 
+ 
+Time to load dataset: 1min 18s
+dataset loaded
+tensor(1.5171, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  226  time
+Optim  226  time
+ 
+ 
+Time to load dataset: 1min 19s
+dataset loaded
+tensor(1.5170, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  227  time
+Optim  227  time
+ 
+ 
+Time to load dataset: 1min 19s
+dataset loaded
+tensor(1.5169, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  228  time
+Optim  228  time
+ 
+ 
+Time to load dataset: 1min 18s
+dataset loaded
+tensor(1.5168, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  229  time
+Optim  229  time
+ 
+ 
+Time to load dataset: 1min 20s
+dataset loaded
+tensor(1.5167, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  230  time
+Optim  230  time
+ 
+ 
+Time to load dataset: 1min 20s
+dataset loaded
+tensor(1.5166, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  231  time
+Optim  231  time
+ 
+ 
+Time to load dataset: 1min 20s
+dataset loaded
+tensor(1.5165, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  232  time
+Optim  232  time
+ 
+ 
+Time to load dataset: 1min 20s
+dataset loaded
+tensor(1.5165, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  233  time
+Optim  233  time
+ 
+ 
+Time to load dataset: 1min 21s
+dataset loaded
+tensor(1.5164, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  234  time
+Optim  234  time
+ 
+ 
+Time to load dataset: 1min 22s
+dataset loaded
+tensor(1.5163, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  235  time
+Optim  235  time
+ 
+ 
+Time to load dataset: 1min 21s
+dataset loaded
+tensor(1.5162, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  236  time
+Optim  236  time
+ 
+ 
+Time to load dataset: 1min 22s
+dataset loaded
+tensor(1.5162, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  237  time
+Optim  237  time
+ 
+ 
+Time to load dataset: 1min 22s
+dataset loaded
+tensor(1.5161, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  238  time
+Optim  238  time
+ 
+ 
+Time to load dataset: 1min 22s
+dataset loaded
+tensor(1.5160, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  239  time
+Optim  239  time
+ 
+ 
+Time to load dataset: 1min 23s
+dataset loaded
+tensor(1.5159, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  240  time
+Optim  240  time
+ 
+ 
+Time to load dataset: 1min 23s
+dataset loaded
+tensor(1.5158, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  241  time
+Optim  241  time
+ 
+ 
+Time to load dataset: 1min 23s
+dataset loaded
+tensor(1.5157, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  242  time
+Optim  242  time
+ 
+ 
+Time to load dataset: 1min 24s
+dataset loaded
+tensor(1.5156, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  243  time
+Optim  243  time
+ 
+ 
+Time to load dataset: 1min 25s
+dataset loaded
+tensor(1.5155, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  244  time
+Optim  244  time
+ 
+ 
+Time to load dataset: 1min 26s
+dataset loaded
+tensor(1.5154, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  245  time
+Optim  245  time
+ 
+ 
+Time to load dataset: 1min 25s
+dataset loaded
+tensor(1.5153, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  246  time
+Optim  246  time
+ 
+ 
+Time to load dataset: 1min 26s
+dataset loaded
+tensor(1.5152, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  247  time
+Optim  247  time
+ 
+ 
+Time to load dataset: 1min 27s
+dataset loaded
+tensor(1.5151, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  248  time
+Optim  248  time
+ 
+ 
+Time to load dataset: 1min 26s
+dataset loaded
+tensor(1.5150, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  249  time
+Optim  249  time
+ 
+ 
+Time to load dataset: 1min 27s
+dataset loaded
+tensor(1.5148, device='cuda:0', grad_fn=<NllLossBackward>)
+*****Iter 250*****
+Data loaded evaluate 250
+data prep
+model gave output
+loss calculated
+Train Loss: 1.5147933959960938 Test Loss: 1.738124132156372
+Test Accuracy 0.16600000858306885
+Calculated loss for the  250  time
+Optim  250  time
+ 
+ 
+Time to load dataset: 1min 29s
+dataset loaded
+tensor(1.5152, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  251  time
+Optim  251  time
+ 
+ 
+Time to load dataset: 1min 29s
+dataset loaded
+tensor(1.5160, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  252  time
+Optim  252  time
+ 
+ 
+Time to load dataset: 1min 28s
+dataset loaded
+tensor(1.5146, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  253  time
+Optim  253  time
+ 
+ 
+Time to load dataset: 1min 29s
+dataset loaded
+tensor(1.5155, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  254  time
+Optim  254  time
+ 
+ 
+Time to load dataset: 1min 29s
+dataset loaded
+tensor(1.5148, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  255  time
+Optim  255  time
+ 
+ 
+Time to load dataset: 1min 30s
+dataset loaded
+tensor(1.5147, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  256  time
+Optim  256  time
+ 
+ 
+Time to load dataset: 1min 31s
+dataset loaded
+tensor(1.5146, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  257  time
+Optim  257  time
+ 
+ 
+Time to load dataset: 1min 30s
+dataset loaded
+tensor(1.5142, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  258  time
+Optim  258  time
+ 
+ 
+Time to load dataset: 1min 31s
+dataset loaded
+tensor(1.5145, device='cuda:0', grad_fn=<NllLossBackward>)
+Calculated loss for the  259  time
+Optim  259  time
+ )
