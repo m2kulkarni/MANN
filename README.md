@@ -6,12 +6,14 @@ Basic implementaion is in mann_pytorch.ipynb
 
 ### Tasks Completed
 - [x] Basic Implementation of MANN using LSTM
-- [ ] Fix Training loss error
+- [x] Fix Training loss error
+- [x] PreFetching Dataloader added
 - [ ] Training for:-
     - 5 shot 1 way
-    - 1 shot 5 way
+    - 4 shot 2 way
 - [ ] Use Bi-LSTM/multi layered LSTM
+- [ ] Use a siamese network as its head(wont work most probably)
 - [ ] Use NTM module
 
-#### Loss stalls at 1.609 and Accuracy is very low(~20%)
+#### When ran for 259steps model shows expected behavior.Loss is decreasing and accuracy is varied(expected). Must run this for about 20k steps. Time taken is quite high rn.
 ![Tensorboard](tensorboard.png)
